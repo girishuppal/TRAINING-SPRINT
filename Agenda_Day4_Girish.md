@@ -1,7 +1,7 @@
 ### GIT TRAINING Day 4
 ------
 
-###### This session will cover some hands on topic with regards to Git Concepts
+###### This session will cover some hands on topic with regards to Git Concepts, GitHub, Azure DevOps, Markdown file
 
 ---
 ###### Intro Git Hub
