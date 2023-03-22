@@ -1,4 +1,4 @@
-### GIT TRAINING Session 2
+### GIT TRAINING Day 4
 ------
 
 ###### This session will cover some hands on topic with regards to Git Concepts
